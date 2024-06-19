@@ -1,0 +1,101 @@
+songId,name,singer,userId,rating
+27,Dil Chori,"Ishers, Simar Kaur, Yo Yo Honey Singh",1,1
+43,Sweetheart,Dev Negi,1,1
+31,Heeriye,"Deep Money, Meet Bros, Neha Bhasin",1,1
+46,Tu Hi Re,"Armaan Malik, Shashaa Tirupati",1,1
+3,Apna Time Aayega,Ranveer Singh,1,1
+5,Tere Bin,"Asees Kaur, Rahat Fateh Ali Khan, Tanishk Bagchi",1,1
+24,Zingaat,"Ajay, Atul",1,6
+48,Galti Se Mistake,"Amit Mishra, Arijit Singh",1,6
+19,Bom Diggy Diggy,"Jasmin Walia, Zack Knight",1,6
+35,Milegi Milegi,Mika Singh,1,6.2
+9,Kamariya,Darshan Raval,1,6.4
+17,Dil Diyan Gallan,Atif Aslam,1,6.7
+49,Phir Mulaaqat,Jubin Nautiyal,1,7
+47,Chhote Chhote Peg,"Navraj Hans, Neha Kakkar, Yo Yo Honey Singh",1,8.5
+28,Tere Naal Nachna,"Badshah, Sunanda Sharma",1,8.6
+36,Morni Banke,"Guru Randhawa, Neha Kakkar",1,8.7
+1,Aankh Marey,"Kumar Sanu, Mika Singh, Neha Kakkar",1,9.1
+25,Tareefan,Badshah,1,9.5
+39,Aao Kabhi Haveli Pe,"Badshah, Jigar, Nikhita Gandhi, Sachin Sanghvi",1,10
+4,Mungda,"Jyotica Tangri, Shaan, Subhro Ganguly",2,5.3
+41,Cheez Badi,"Neha Kakkar, Udit Narayan",2,5.5
+10,Ek Ladki Ko Dekha Toh Aisa Laga,"Darshan Raval, Rochak Kohli",2,5.6
+38,Khalibali,Shivam Pathak,2,5.6
+9,Kamariya,Darshan Raval,2,5.8
+40,Badri Ki Dulhania,"Dev Negi, Ikka, Monali Thakur, Neha Kakkar",2,6
+42,Dholida,"Neha Kakkar, Palak Muchchal, Raja Hassan, Udit Narayan",2,6.3
+5,Tere Bin,"Asees Kaur, Rahat Fateh Ali Khan, Tanishk Bagchi",2,6.4
+25,Tareefan,Badshah,2,6.5
+39,Aao Kabhi Haveli Pe,"Badshah, Jigar, Nikhita Gandhi, Sachin Sanghvi",2,6.5
+19,Bom Diggy Diggy,"Jasmin Walia, Zack Knight",2,6.6
+6,Gali Gali,Neha Kakkar,2,6.6
+18,Husn Parcham,"Bhoomi Trivedi, Raja Kumari",2,6.7
+35,Milegi Milegi,Mika Singh,2,6.7
+13,Daaru Wargi,Guru Randhawa,2,6.9
+8,Mere Gully Mein,Ranveer Singh,2,8.6
+23,Dekhte Dekhte,Atif Aslam,2,8.9
+17,Dil Diyan Gallan,Atif Aslam,2,9.2
+3,Apna Time Aayega,Ranveer Singh,2,9.6
+16,Doori,Ranveer Singh,2,9.9
+29,Dil Meri Na Sune,Atif Aslam,3,5.1
+20,Issaqbaazi,"Divya Kumar, Sukhwinder Singh",3,5.1
+6,Gali Gali,Neha Kakkar,3,5.1
+14,Dilbar,"Dhvani Bhanushali, Ikka, Neha Kakkar",3,5.3
+19,Bom Diggy Diggy,"Jasmin Walia, Zack Knight",3,5.5
+37,Bhare Bazaar,"B Praak, Badshah, Payal Dev, Vishal Dadlani",3,5.7
+33,Gud Naal Ishq Mitha,"Harshdeep Kaur, Navraj Hans",3,5.7
+28,Tere Naal Nachna,"Badshah, Sunanda Sharma",3,5.8
+27,Dil Chori,"Ishers, Simar Kaur, Yo Yo Honey Singh",3,6.2
+9,Kamariya,Darshan Raval,3,6.3
+16,Doori,Ranveer Singh,3,6.4
+15,Proper Patola,"Aastha Gill, Badshah, Diljit Dosanjh",3,6.5
+10,Ek Ladki Ko Dekha Toh Aisa Laga,"Darshan Raval, Rochak Kohli",3,6.5
+48,Galti Se Mistake,"Amit Mishra, Arijit Singh",3,6.7
+8,Mere Gully Mein,Ranveer Singh,3,6.8
+30,Dhadak Title Track,"Ajay Gogavale, Shreya Ghoshal",3,6.9
+44,Namo Namo,Amit Trivedi,3,6.9
+43,Sweetheart,Dev Negi,3,6.9
+38,Khalibali,Shivam Pathak,3,7
+36,Morni Banke,"Guru Randhawa, Neha Kakkar",4,5.1
+49,Phir Mulaaqat,Jubin Nautiyal,4,5.1
+11,Swag Se Swagat,"Neha Bhasin, Vishal Dadlani",4,5.1
+5,Tere Bin,"Asees Kaur, Rahat Fateh Ali Khan, Tanishk Bagchi",4,5.3
+27,Dil Chori,"Ishers, Simar Kaur, Yo Yo Honey Singh",4,5.3
+45,Qaafirana,"Arijit Singh, Nikhita Gandhi",4,5.4
+13,Daaru Wargi,Guru Randhawa,4,5.5
+48,Galti Se Mistake,"Amit Mishra, Arijit Singh",4,5.6
+28,Tere Naal Nachna,"Badshah, Sunanda Sharma",4,5.6
+35,Milegi Milegi,Mika Singh,4,5.8
+40,Badri Ki Dulhania,"Dev Negi, Ikka, Monali Thakur, Neha Kakkar",4,6
+4,Mungda,"Jyotica Tangri, Shaan, Subhro Ganguly",4,6
+46,Tu Hi Re,"Armaan Malik, Shashaa Tirupati",4,6.1
+23,Dekhte Dekhte,Atif Aslam,4,6.2
+20,Issaqbaazi,"Divya Kumar, Sukhwinder Singh",4,6.2
+19,Bom Diggy Diggy,"Jasmin Walia, Zack Knight",4,6.2
+2,Coca Cola,"Neha Kakkar, Tony Kakkar",4,6.3
+7,Chamma Chamma,"Arun, Ikka, Neha Kakkar, Romy",4,6.4
+39,Aao Kabhi Haveli Pe,"Badshah, Jigar, Nikhita Gandhi, Sachin Sanghvi",4,6.4
+9,Kamariya,Darshan Raval,4,6.4
+24,Zingaat,"Ajay, Atul",4,6.5
+8,Mere Gully Mein,Ranveer Singh,4,6.5
+34,Paniyon Sa,"Atif Aslam, Tulsi Kumar",4,6.6
+37,Bhare Bazaar,"B Praak, Badshah, Payal Dev, Vishal Dadlani",4,6.9
+31,Heeriye,"Deep Money, Meet Bros, Neha Bhasin",4,6.9
+1,Aankh Marey,"Kumar Sanu, Mika Singh, Neha Kakkar",4,7
+30,Dhadak Title Track,"Ajay Gogavale, Shreya Ghoshal",4,9.5
+31,Heeriye,"Deep Money, Meet Bros, Neha Bhasin",5,5
+39,Aao Kabhi Haveli Pe,"Badshah, Jigar, Nikhita Gandhi, Sachin Sanghvi",5,5.5
+47,Chhote Chhote Peg,"Navraj Hans, Neha Kakkar, Yo Yo Honey Singh",5,5.7
+44,Namo Namo,Amit Trivedi,5,6
+40,Badri Ki Dulhania,"Dev Negi, Ikka, Monali Thakur, Neha Kakkar",5,6
+49,Phir Mulaaqat,Jubin Nautiyal,5,6.1
+16,Doori,Ranveer Singh,5,6.2
+18,Husn Parcham,"Bhoomi Trivedi, Raja Kumari",5,6.3
+20,Issaqbaazi,"Divya Kumar, Sukhwinder Singh",5,6.3
+8,Mere Gully Mein,Ranveer Singh,5,6.7
+50,Kala Chashma,"Amar Arshi, Badshah, Neha Kakkar",5,6.8
+1,Aankh Marey,"Kumar Sanu, Mika Singh, Neha Kakkar",5,6.8
+26,Mile Ho Tum (Reprise),"Neha Kakkar, Tony Kakkar",5,6.8
+28,Tere Naal Nachna,"Badshah, Sunanda Sharma",5,7
+48,Galti Se Mistake,"Amit Mishra, Arijit Singh",5,9.6

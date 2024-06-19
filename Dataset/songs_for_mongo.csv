@@ -1,0 +1,101 @@
+Song_Id,Song_Name,Singer,Genre,Movie
+1,Aankh Marey,"Kumar Sanu, Mika Singh, Neha Kakkar",BollywoodDance,Simmba
+2,Coca Cola,"Neha Kakkar, Tony Kakkar",BollywoodDanceRomantic,Luka Chuppi
+3,Apna Time Aayega,Ranveer Singh,BollywoodDance,Gully Boy
+4,Mungda,"Jyotica Tangri, Shaan, Subhro Ganguly",BollywoodDance,Total Dhamaal
+5,Tere Bin,"Asees Kaur, Rahat Fateh Ali Khan, Tanishk Bagchi",BollywoodRomantic,Simmba
+6,Gali Gali,Neha Kakkar,BollywoodDance,KGF
+7,Chamma Chamma,"Arun, Ikka, Neha Kakkar, Romy",BollywoodDance,Fraud Saiyaan
+8,Mere Gully Mein,Ranveer Singh,BollywoodDance,Gully Boy
+9,Kamariya,Darshan Raval,BollywoodDance,Mitron
+10,Ek Ladki Ko Dekha Toh Aisa Laga,"Darshan Raval, Rochak Kohli",BollywoodRomantic,Ek Ladki Ko Dekha Toh Aisa Laga
+11,Swag Se Swagat,"Neha Bhasin, Vishal Dadlani",BollywoodDance,Tiger Zinda Hai
+12,Poster Lagwa Do,"Mika Singh, Sunanda Sharma",BollywoodDance,Luka Chuppi
+13,Daaru Wargi,Guru Randhawa,BollywoodDance,Cheat India
+14,Dilbar,"Dhvani Bhanushali, Ikka, Neha Kakkar",BollywoodDance,Satyameva Jayate
+15,Proper Patola,"Aastha Gill, Badshah, Diljit Dosanjh",BollywoodDance,Namaste England
+16,Doori,Ranveer Singh,BollywoodDance,Gully Boy
+17,Dil Diyan Gallan,Atif Aslam,BollywoodRomantic,Tiger Zinda Hai
+18,Husn Parcham,"Bhoomi Trivedi, Raja Kumari",BollywoodDance,Zero
+19,Bom Diggy Diggy,"Jasmin Walia, Zack Knight",BollywoodDance,Sonu Ke Titu Ki Sweety
+20,Issaqbaazi,"Divya Kumar, Sukhwinder Singh",BollywoodDance,Zero
+21,Mere Naam Tu,Abhay Jodhpurkar,BollywoodRomantic,Zero
+22,High Rated Gabru Nawabzaade,Guru Randhawa,BollywoodDance,Nawabzaade
+23,Dekhte Dekhte,Atif Aslam,BollywoodRomantic,Batti Gul Meter Chalu
+24,Zingaat,"Ajay, Atul",BollywoodDance,Dhadak
+25,Tareefan,Badshah,Bollywood,Veere Di Wedding
+26,Mile Ho Tum (Reprise),"Neha Kakkar, Tony Kakkar",BollywoodRomantic,Fever
+27,Dil Chori,"Ishers, Simar Kaur, Yo Yo Honey Singh",BollywoodDance,Sonu Ke Titu Ki Sweety
+28,Tere Naal Nachna,"Badshah, Sunanda Sharma",BollywoodDance,Nawabzaade
+29,Dil Meri Na Sune,Atif Aslam,BollywoodRomantic,Genius
+30,Dhadak Title Track,"Ajay Gogavale, Shreya Ghoshal",BollywoodRomantic,Dhadak
+31,Heeriye,"Deep Money, Meet Bros, Neha Bhasin",BollywoodDanceRomantic,Race 3
+32,Chogada,"Asees Kaur, Darshan Raval",BollywoodDance,Loveratri
+33,Gud Naal Ishq Mitha,"Harshdeep Kaur, Navraj Hans",BollywoodDance,Ek Ladki Ko Dekha Toh Aisa Laga
+34,Paniyon Sa,"Atif Aslam, Tulsi Kumar",BollywoodRomantic,Satyameva Jayate
+35,Milegi Milegi,Mika Singh,BollywoodDance,Stree
+36,Morni Banke,"Guru Randhawa, Neha Kakkar",BollywoodDance,Badhaai Ho
+37,Bhare Bazaar,"B Praak, Badshah, Payal Dev, Vishal Dadlani",BollywoodDance,Namaste England
+38,Khalibali,Shivam Pathak,BollywoodDance,Padmaavat
+39,Aao Kabhi Haveli Pe,"Badshah, Jigar, Nikhita Gandhi, Sachin Sanghvi",BollywoodDance,Stree
+40,Badri Ki Dulhania,"Dev Negi, Ikka, Monali Thakur, Neha Kakkar",BollywoodDance,Badrinath Ki Dulhania
+41,Cheez Badi,"Neha Kakkar, Udit Narayan",BollywoodDance,Machine
+42,Dholida,"Neha Kakkar, Palak Muchchal, Raja Hassan, Udit Narayan",BollywoodDance,Loveratri
+43,Sweetheart,Dev Negi,BollywoodDance,Kedarnath
+44,Namo Namo,Amit Trivedi,BollywoodDevotional,Kedarnath
+45,Qaafirana,"Arijit Singh, Nikhita Gandhi",BollywoodRomantic,Kedarnath
+46,Tu Hi Re,"Armaan Malik, Shashaa Tirupati",BollywoodDance,2
+47,Chhote Chhote Peg,"Navraj Hans, Neha Kakkar, Yo Yo Honey Singh",BollywoodDance,Sonu Ke Titu Ki Sweety
+48,Galti Se Mistake,"Amit Mishra, Arijit Singh",BollywoodDance,Jagga Jasoos
+49,Phir Mulaaqat,Jubin Nautiyal,BollywoodRomantic,Cheat India
+50,Kala Chashma,"Amar Arshi, Badshah, Neha Kakkar",BollywoodDance,Baar Baar Dekho
+51,Mantoiyat,Raftaar,Bollywood,Manto
+52,Nashe Si Chadh Gayi,Arijit Singh,BollywoodDance,Befikre
+53,Mera Pyar Tera Pyar,Arijit Singh,BollywoodRomanticSad,Jalebi
+54,Ding Dang,"Amit Mishra, Antara Mitra",BollywoodDance,Munna Michael
+55,Main Tera Boyfriend,"Arijit Singh, Meet Bros, Neha Kakkar",BollywoodDance,Raabta
+56,Laila Main Laila,Pawni Pandey,BollywoodDance,Raees
+57,Ghoomar,"Shreya Ghoshal, Swaroop Khan",BollywoodDance,Padmaavat
+58,Rafta Rafta Medley,"Akash Ojha, Disha Sharma, Jordi Patel, Rekha, Sonakshi Sinha, Vishal Mishra",BollywoodDance,Yamla Pagla Deewana Phir Se
+59,Pal,"Arijit Singh, Shreya Ghoshal",BollywoodRomantic,Jalebi
+60,Patola,Guru Randhawa,BollywoodDance,Black Mail
+61,Pallo Latke,"Fazilpuria, Jyotica Tangri, Yasser Desai",BollywoodDance,Shaadi Mein Zaroor Aana
+62,Main Badhiya Tu Bhi Badhiya,"Sonu Nigam, Sunidhi Chauhan",Bollywood,Sanju
+63,Billionaire,"Simar Kaur, Singhsta, Yo Yo Honey Singh",BollywoodDance,Baazaar
+64,This Party Is Over Now,Yo Yo Honey Singh,BollywoodDance,Mitron
+65,Heer Badnaam,Romy,BollywoodDanceSad,Zero
+66,Tera Hua,Atif Aslam,BollywoodRomantic,Loveratri
+67,Jaan Nisaar,Arijit Singh,BollywoodRomantic,Kedarnath
+68,Akh Lad Jaaye,"Asees Kaur, Badshah, Jubin Nautiyal",BollywoodDanceRomantic,Loveratri
+69,Rangtaari,"Dev Negi, Yo Yo Honey Singh",BollywoodDance,Loveratri
+70,The Humma Song,"Badshah, Jubin Nautiyal, Shashaa Tirupati",BollywoodDance,Ok Jaanu
+71,Pehli Baar,Ajay Gogavale,BollywoodRomantic,Dhadak
+72,Tera Yaar Hoon Main,Arijit Singh,BollywoodRomanticSad,Sonu Ke Titu Ki Sweety
+73,Dilbaro,"Harshdeep Kaur, Shankar Mahadevan, Vibha Saraf",Bollywood,Raazi
+74,Chhod Diya,Arijit Singh,BollywoodSad,Baazaar
+75,Maine Tujhko Dekha,"Neeraj Shridhar, Sukriti Kakar",BollywoodDance,Golmaal Again
+76,Allah Duhai Hai,"Amit Mishra, Jonita Gandhi, Sreerama Chandra",BollywoodDance,Race 3
+77,Cham Cham,Monali Thakur,BollywoodDance,Baaghi
+78,Kar Har Maidaan Fateh,"Shreya Ghoshal, Sukhwinder Singh",BollywoodMotivational,Sanju
+79,Kamariya,"Aastha Gill, Divya Kumar, Jigar Saraiya, Sachin Sanghvi",BollywoodDance,Stree
+80,Tamma Tamma Again,"Anuradha Paudwal, Badshah, Bappi Lahiri",BollywoodDance,Badrinath Ki Dulhania
+81,Tera Fitoor,Arijit Singh,BollywoodRomantic,Genius
+82,Mere Rashke Qamar,"Nusrat Fateh Ali Khan, Rahat Fateh Ali Khan",BollywoodRomantic,Baadshaho
+83,The Breakup Song,"Arijit Singh, Badshah, Jonita Gandhi, Nakash Aziz",BollywoodDance,Ae Dil Hai Mushkil
+84,Naino Ne Bandhi,Yasser Desai,BollywoodRomantic,Gold
+85,Sanu Ek Pal Chain,Rahat Fateh Ali Khan,BollywoodRomantic,Raid
+86,Ban Ja Rani,Guru Randhawa,BollywoodDanceRomantic,Tumhari Sulu
+87,Zaalima,"Arijit Singh, Harshdeep Kaur",BollywoodDanceRomantic,Raees
+88,Baarish,"Ash King, Shashaa Tirupati",BollywoodRomantic,Half Girlfriend
+89,Aashiq Banaya Aapne,"Himesh Reshammiya, Neha Kakkar",BollywoodDance,Hate Story 4
+90,Ek Do Teen Song,Shreya Ghoshal,BollywoodDance,Baaghi 2
+91,Tere Liye,"Akanksha Bhandari, Atif Aslam",BollywoodRomantic,Namaste England
+92,Nazam Nazam,"Arko, Ayushman Khurana",BollywoodRomance,Bareilly Ki Barfi
+93,Good Morning,"Shannon Donald, Vishal Dadlani",Bollywood,Ek Ladki Ko Dekha Toh Aisa Laga
+94,O Saathi,"Atif Aslam, Payal Dev",BollywoodRomantic,Baaghi 2
+95,Tere Jaisa,"Arko, Tulsi Kumar",BollywoodRomantic,Satyameva Jayate
+96,Mera Intkam Dekhegi,Krishna Beuraa,BollywoodSad,Shaadi Mein Zaroor Aana
+97,Gerua,"Antara Mitra, Arijit Singh",BollywoodRomantic,Dilwale
+98,Suraiyya,"Shreya Ghoshal, Vishal Dadlani",BollywoodDance,Thugs of Hindostan
+99,Gold Tamba,Nakash Aziz,BollywoodDance,Batti Gul Meter Chalu
+100,Ae Dil Hai Mushkil,Arijit Singh,BollywoodSad,Ae Dil Hai Mushkil
